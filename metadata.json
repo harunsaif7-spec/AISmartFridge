@@ -1,0 +1,6 @@
+{
+  "name": "CulinaryLens - Smart Fridge & AI Culinary Assistant",
+  "description": "Snap a photo of your fridge to instantly detect ingredients, discover tailored recipes with calorie and prep estimates, cook hands-free with read-aloud step-by-step guidance, and manage missing items in your shopping list.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
